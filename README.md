@@ -1,3 +1,12 @@
 # Morse-Translate
-"space" for translate
-"s" for skip
+
+Morse translator created with Scratch.
+
+## Commands
+
+- **space**: translate
+- **s**: skip
+
+## Author
+
+Tomyo
